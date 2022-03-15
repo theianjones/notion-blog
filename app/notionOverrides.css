@@ -1,0 +1,21 @@
+.notion {
+  font-family: 'Avenir Next', 'Open Sans', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.notion-page .notion-h1 {
+  font-family: 'Source Serif Pro', Cochin, Georgia, Times, 'Times New Roman',
+    serif;
+}
+
+.notion-page .notion-title {
+  font-family: 'Source Serif Pro', Cochin, Georgia, Times, 'Times New Roman',
+    serif;
+}
+
+.notion-header .breadcrumbs {
+  display: none;
+}
+
+.notion-inline-code {
+  color: #7b14d1;
+}
